@@ -10,7 +10,7 @@ import {
 } from "react-native";
 
 const Instagram = () => {
-  let a = 3;
+  let a = 4;
   const storiesData = [
     {
       id: 1,
