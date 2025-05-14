@@ -56,7 +56,7 @@ const _layout = () => {
         />
         <View style={{ marginLeft: 15, marginTop: 5 }}>
           <Text style={{ fontSize: 20, fontWeight: "bold", paddingBottom: 8 }}>
-            William John Malik
+            +Jewoola Favour
           </Text>
           <Text style={{ fontSize: 15 }}>Agressive Investor</Text>
         </View>
